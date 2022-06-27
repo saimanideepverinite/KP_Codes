@@ -1,0 +1,9 @@
+Cary Male 58 58 pass
+Julita Female 54 54 pass
+Kirby Female 99 99 pass
+Emmeline Female 49 49 fail
+Elfrieda Female 57 57 pass
+Carroll Female 49 49 fail
+Val Female 84 84 pass
+Georgie Male 37 37 fail
+Marielle Female 80 80 pass
